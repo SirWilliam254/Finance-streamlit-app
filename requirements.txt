@@ -1,11 +1,4 @@
 streamlit
 numpy
 pandas
-scipy
-click
-altair
-sympy
-seaborn
 math
-matplotlib
-decimal
