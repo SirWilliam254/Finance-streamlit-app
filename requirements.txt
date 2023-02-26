@@ -1,7 +1,2 @@
 streamlit
-sympy
 numpy
-scipy
-pandas
-matplotlib
-seaborn
